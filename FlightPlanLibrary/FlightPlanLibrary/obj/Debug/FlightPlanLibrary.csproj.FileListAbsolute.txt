@@ -1,0 +1,4 @@
+C:\Users\Usuari\Documents\Visual Studio 2010\Projects\EjercicioIntegracion\FlightPlanLibrary\FlightPlanLibrary\bin\Debug\FlightPlanLibrary.dll
+C:\Users\Usuari\Documents\Visual Studio 2010\Projects\EjercicioIntegracion\FlightPlanLibrary\FlightPlanLibrary\bin\Debug\FlightPlanLibrary.pdb
+C:\Users\Usuari\Documents\Visual Studio 2010\Projects\EjercicioIntegracion\FlightPlanLibrary\FlightPlanLibrary\obj\Debug\FlightPlanLibrary.dll
+C:\Users\Usuari\Documents\Visual Studio 2010\Projects\EjercicioIntegracion\FlightPlanLibrary\FlightPlanLibrary\obj\Debug\FlightPlanLibrary.pdb
