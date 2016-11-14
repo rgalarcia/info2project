@@ -1,0 +1,5 @@
+C:\CARLOS\ESTUDIOS\UPC\curso_16-17\I2\Programas\PROJECT INFO 2\Libreria de clases\bin\Debug\Libreria de clases.dll
+C:\CARLOS\ESTUDIOS\UPC\curso_16-17\I2\Programas\PROJECT INFO 2\Libreria de clases\bin\Debug\Libreria de clases.pdb
+C:\CARLOS\ESTUDIOS\UPC\curso_16-17\I2\Programas\PROJECT INFO 2\Libreria de clases\obj\Debug\FlightPlanLibrary.csprojResolveAssemblyReference.cache
+C:\CARLOS\ESTUDIOS\UPC\curso_16-17\I2\Programas\PROJECT INFO 2\Libreria de clases\obj\Debug\Libreria de clases.dll
+C:\CARLOS\ESTUDIOS\UPC\curso_16-17\I2\Programas\PROJECT INFO 2\Libreria de clases\obj\Debug\Libreria de clases.pdb
