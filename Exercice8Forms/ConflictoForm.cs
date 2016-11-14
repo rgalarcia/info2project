@@ -43,31 +43,9 @@ namespace Exercice8Forms
 
         private void ConflictoForm_Load(object sender, EventArgs e)
         {
-            resolverConflicto(distseg);
+            plan1.resolverConflicto(plan2, distseg);
             v1label.Text = Convert.ToString(plan1.GetVelocidad());
             v2label.Text = Convert.ToString(plan2.GetVelocidad());
-        }
-
-        public bool resolverConflicto(double dist_sec)
-        {
-            bool conflicto = plan1.hayConflicto(plan2, dist_sec);
-            while (conflicto && plan1.GetVelocidad() > 1)
-            {
-                plan1.SetVelocidad(plan1.GetVelocidad() - 1);
-                conflicto = plan1.hayConflicto(plan2, dist_sec);
-            }
-
-            while (conflicto && plan2.GetVelocidad() > 1)
-            {
-                plan2.SetVelocidad(plan2.GetVelocidad() - 1);
-                conflicto = plan1.hayConflicto(plan2, dist_sec);
-            }
-
-            if (plan1.hayConflicto(plan2, dist_sec))
-                return false;
-            else
-                return true;
-
         }
 
         private void button1_Click(object sender, EventArgs e)

@@ -1,3 +1,3 @@
-Carlos Aparisi i Ramón Garcia
+Carlos Aparisi, Ramón Garcia
 
-No funciona el "anticipar conflicto"
+, Emad Adriad i Adrià Lopez

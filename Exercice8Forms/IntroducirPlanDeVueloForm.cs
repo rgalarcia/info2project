@@ -22,6 +22,7 @@ namespace Exercice8Forms
 
         private void button2_Click(object sender, EventArgs e)
         {
+            //Introduce datos por defecto
             idBox.Text = "IB123";
             compañiaBox.Text = "Iberia";
             origenXBox.Text = "10";
